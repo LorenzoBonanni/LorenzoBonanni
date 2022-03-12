@@ -10,6 +10,8 @@
 
 ## 👯 Part of
 [Kodikas Group](https://github.com/kodikasgroup)
+[IAML Community](https://github.com/iaml-it)
+[IAML Verona](https://github.com/iaml-verona)
 
 
 ## 📊 Stats
