@@ -9,9 +9,9 @@
 - UCT (aka MonteCarlo Tree Search)
 
 ## 👯 Part of
-[Kodikas Group](https://github.com/kodikasgroup)
-[IAML Community](https://github.com/iaml-it)
-[IAML Verona](https://github.com/iaml-verona)
+- [Kodikas Group](https://github.com/kodikasgroup)
+- [IAML Community](https://github.com/iaml-it)
+- [IAML Verona](https://github.com/iaml-verona)
 
 
 ## 📊 Stats
