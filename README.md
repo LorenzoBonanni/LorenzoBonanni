@@ -14,6 +14,7 @@
 
 ## 📰 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to Markov Decision Processes](https://medium.com/@lorenzobonanni/an-introduction-to-markov-decision-processes-835abc4dea56?source=rss-68419ad6fa9e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 Stats
