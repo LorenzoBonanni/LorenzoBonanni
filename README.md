@@ -31,6 +31,5 @@ Here's some stats about my work!
 <p align="left">
 <a href="https://linkedin.com/in/lorenzo-bonanni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorenzo-bonanni" height="30" width="40" /></a>
 <a href="https://kaggle.com/lorenzobonanni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lorenzobonanni" height="30" width="40" /></a>
-<p align="left">
 <a href="https://medium.com/@lorenzobonanni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lorenzobonanni" height="30" width="40" /></a>
 </p>
