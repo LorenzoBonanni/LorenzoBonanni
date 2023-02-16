@@ -34,7 +34,7 @@ Here's some stats about my work!
 <br/>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lorenzobonanni&show_icons=true&locale=en&theme=tokyonight" alt="lorenzobonanni" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzobonanni&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lorenzobonanni&show_icons=true&locale=en&theme=tokyonight" alt="lorenzobonanni" />
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lorenzobonanni&theme=tokyonight" />
 </p>
 
